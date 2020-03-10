@@ -28,6 +28,12 @@ Ferret:
 |Basketball| 1 |
 |Soccer| 2 |
 
+|   |Threat|1|2|3|
+|Vulnerability| | | | |
+|1| |2|3|4|
+|2| |3|4|5|
+|3| |4|5|6|
+
 >This is super serious
 >Please Listen
 
