@@ -41,4 +41,4 @@ Ferret:
  ---
  Below
  
- <a href="https://www.youtube.com/watch?v=6OQAHcB72dg"><img src="https://www.youtube.com/watch?v=6OQAHcB72dg/0.jpg" alt="Anger Translator" width="480" height="360" border="20"/></a>
+ <a href="https://img.youtube.com/watch?v=6OQAHcB72dg"><img src="https://www.youtube.com/watch?v=6OQAHcB72dg/0.jpg" alt="Anger Translator" width="480" height="360" border="20"/></a>
