@@ -17,7 +17,7 @@ say I have not went throught other states on those travels. I only have one sibl
 I would say that I use [this site](htttps://www.google.com) quite a bit. Another thing I use
 a lot is my phone and personal computer. 
 
-I 'am' an 'introvert.'
+I am `**real**`
 
 Ferret:
 
